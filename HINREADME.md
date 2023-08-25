@@ -105,12 +105,3 @@ It is commented out because it conflicted with the rest of the program: plane be
 User story 5 - test3
 Not sure how to pass a plane object to the method without creating an instance. (program crashes and display reference error if plane is passed as object without being instantiated)
 ============================================================
-
-
-
-============================================================
-Other
-console.log(`test1 remove plane from array ${airport.airportPlanesList}`)
-Not sure why above code display the following:
-[object Object] 
-============================================================
